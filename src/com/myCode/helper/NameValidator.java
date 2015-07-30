@@ -2,12 +2,10 @@
  * 
  */
 package com.myCode.helper;
-<<<<<<< HEAD
+
 //comment pankaj 3 456
 //123
-=======
-//comment pankaj 3
->>>>>>> refs/remotes/origin/masterGit
+
 /**
  * @author AvinashVaidya
  *
