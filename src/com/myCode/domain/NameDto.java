@@ -3,8 +3,8 @@
  */
 package com.myCode.domain;
 
-//comment
-//comment avinash 1
+// comment
+
 /**
  * @author AvinashVaidya
  *
