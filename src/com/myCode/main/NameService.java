@@ -23,6 +23,7 @@ public class NameService {
 		System.out.println("validate status - " + validateName);
 		
 		
+		
 	}
 
 }
