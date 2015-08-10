@@ -15,6 +15,7 @@ public class NameDto {
 	
 	private String lastName;
 
+	
 	/**
 	 * @return the firstName
 	 */
