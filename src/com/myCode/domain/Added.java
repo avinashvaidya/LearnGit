@@ -10,3 +10,4 @@ package com.myCode.domain;
 public class Added {
 
 }
+
