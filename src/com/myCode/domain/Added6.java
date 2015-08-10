@@ -9,6 +9,6 @@ package com.myCode.domain;
  */
 public class Added6 {
 	
-	private String test = "";
+	private String test = "This is my 1st conflict.";
 
 }
