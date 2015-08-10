@@ -8,5 +8,7 @@ package com.myCode.domain;
  *
  */
 public class Added6 {
+	
+	private String test = "";
 
 }
